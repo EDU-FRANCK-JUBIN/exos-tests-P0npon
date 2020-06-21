@@ -1,0 +1,14 @@
+D:\Programme\Cours\exos-tests-Nico64680\exo-tests\bin\Debug\exo-tests.exe.config
+D:\Programme\Cours\exos-tests-Nico64680\exo-tests\bin\Debug\exo-tests.exe
+D:\Programme\Cours\exos-tests-Nico64680\exo-tests\bin\Debug\exo-tests.pdb
+D:\Programme\Cours\exos-tests-Nico64680\exo-tests\obj\Debug\exo-tests.csprojAssemblyReference.cache
+D:\Programme\Cours\exos-tests-Nico64680\exo-tests\obj\Debug\exo-tests.csproj.CoreCompileInputs.cache
+D:\Programme\Cours\exos-tests-Nico64680\exo-tests\obj\Debug\exo-tests.exe
+D:\Programme\Cours\exos-tests-Nico64680\exo-tests\obj\Debug\exo-tests.pdb
+C:\Users\maxim\OneDrive\Bureau\exos-tests\exo-tests\bin\Debug\exo-tests.exe.config
+C:\Users\maxim\OneDrive\Bureau\exos-tests\exo-tests\bin\Debug\exo-tests.exe
+C:\Users\maxim\OneDrive\Bureau\exos-tests\exo-tests\bin\Debug\exo-tests.pdb
+C:\Users\maxim\OneDrive\Bureau\exos-tests\exo-tests\obj\Debug\exo-tests.csprojAssemblyReference.cache
+C:\Users\maxim\OneDrive\Bureau\exos-tests\exo-tests\obj\Debug\exo-tests.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive\Bureau\exos-tests\exo-tests\obj\Debug\exo-tests.exe
+C:\Users\maxim\OneDrive\Bureau\exos-tests\exo-tests\obj\Debug\exo-tests.pdb
